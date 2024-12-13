@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulises Garibay</h1>
-<h3 align="center">A passionate back-end developer from Mexico</h3>
+<h3 align="center">B.S. in Physics and mathematics (UMSNH), I'm a technology enthusiast, developing technological solutions using java as my primary language. Aditionally i have experience with schoolar proyects involving Mathematica, JavaScript, HTML, CSS, Fortran90, figma and sql </h3>
 
 - 🌱 I’m currently learning **sql and spring boot**
 
